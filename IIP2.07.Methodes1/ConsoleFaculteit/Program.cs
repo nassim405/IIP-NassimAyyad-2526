@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 
-namespace ConsoleDrankkaart
+namespace ConsoleFaculteit
 {
    class Program
    {

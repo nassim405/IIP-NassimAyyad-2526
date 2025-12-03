@@ -4,7 +4,7 @@ using System.Text;
 namespace ConsoleDrankkaart
 {
    class Program 
-   {>l
+   {
       static void Main(string[] args)
       {
         Console.OutputEncoding = Encoding.UTF8; 
