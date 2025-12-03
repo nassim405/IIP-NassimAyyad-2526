@@ -1,28 +1,11 @@
 using System;
 
-namespace ConsoleGangsterName;
+namespace;
    class Program
    {
-      static void Main(string[] args)
-      {
-		string header = 
-		$@"******************************
-		|		GANGSTA NAME BUILDER     |
-		******************************";
-		Console.WriteLine(header);
-		Console.Write("Give the first name of any Disney character: ");
-		string naam = Console.ReadLine();
-		Console.Write("Give any workbench tool: ");
-		string tool = Console.ReadLine();
-		Console.Write("What is your last name: ");
-		string achternaam = Console.ReadLine();
-		string gangstaName = $"{naam} 'the {tool}' {achternaam}";
-		Console.Write("\nJe gangsta naam is: ");
-		Console.ForegroundColor = ConsoleColor.Green;
-		Console.WriteLine(gangstaName);
-		Console.ResetColor();
-		
-      }
+      A: int i = 2;
+B: i < 14;
+C: i += 3;
    }
 
 
